@@ -10,9 +10,6 @@ export default function Nav() {
             <Link href='/'>Home</Link>
           </li>
           <li className={navStyles.navLiA}>
-            <Link href='/history'>History</Link>
-          </li>
-          <li className={navStyles.navLiA}>
             <Link href='/contact'>Contact</Link>
           </li>
         </ul>
